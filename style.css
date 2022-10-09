@@ -1,0 +1,37 @@
+body { background:rgb(189, 183, 107)
+; }
+
+.tit1 {font-family: 'Alkalami', serif; @import ;
+    padding-left: 200px;
+    font-size: 50px;}
+
+.tit {font-family: 'Alkalami', serif; @import ;
+ }
+.teexto { font-family: 'Abyssinica SIL', serif; @import }
+
+
+
+.indice { background:rgb(240, 230, 140);
+    margin: 10px; 
+    padding: 10px;}
+
+#FOTO { margin-top: -100px; }
+
+.AUTOR { background: rgb(238, 232, 170); 
+     margin: 10px; 
+     padding: 10px;}
+
+.TEXTO { background: rgb(238, 232, 170); 
+     margin: 10px; 
+     padding: 10px;}
+
+#IP { background: rgb(238, 232, 170);
+    padding: 10px; 
+    margin: 10px;}
+
+#resmen { float: right; 
+padding-left: 200px;
+padding-right: 100px;}
+
+.icon-play { padding-left: 200px; }
+
